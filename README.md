@@ -1,1 +1,1 @@
-devCall uygulamasının ilk versiyonu , mobil bir not kayıt uygulaması.
+Simple mobile notebook app.
